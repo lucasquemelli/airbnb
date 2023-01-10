@@ -1,6 +1,6 @@
 # Airbnb User Destination
 
-<code><img width="100%" src="https://github.com/lucasquemelli/Rossmann_Store_Sales/blob/main/images/rossmann_img.jpeg"></code>
+<code><img width="100%" src="https://github.com/lucasquemelli/airbnb/blob/main/images/airbnb.png"></code>
 
 # 1. Business Problem
 
