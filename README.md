@@ -56,7 +56,19 @@ The following hypotheses were formulated in order to be tested:
 
 **Step 08 - Machine Learning Modelling:** testing and comparing Machine Learning models.
 
-# 4. Top 6 Data Insights
+# 4. Top 3 Data Insights
+
+**H03.** The number of bookings to US increase 20% yearly during the summer.
+
+**FALSE.** Based on the waterfall chart above, there was a higher increase up to 2013. However, in 2014 and 2015 there was a decrease.
+
+**H05.** Google Marketing channel represents 40% of the bookings to out of US.
+
+**FALSE.** The marketing channels mostly used from users who go outside US are basic and facebook. These channels represents almost 100% of our base.
+
+**H07.** The average age is 35 years old to every country destination.
+
+**TRUE.** Since the average and the median age are very close to 35 for every country destination, we consider this hypothesis as true. As the average is a float number, the assumption was very close to the actual value.
 
 # 5. Business Results
 
