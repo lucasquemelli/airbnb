@@ -42,23 +42,19 @@ The following hypotheses were formulated in order to be tested:
 
 **Step 01 - Data Description:** cleaning data, changing data type, treating missing values, check balance of data, and descriptive statistics.
 
-**Step 02 - Feature Engineering:** feature engineering.
+**Step 02 - Feature Engineering:** creating new features that may better explain the phenomenon.
 
 **Step 03 - Feature Filtering and Selection:** rows filtering and columns selection.
 
-**Step 04 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis and multivariate analysis.
+**Step 05 - Balanced Dataset:** balance of the dataset.
 
-**Step 05 - Data Preparation:** normalization, rescaling and transformation.
+**Step 05 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis (hypotheses test) and multivariate analysis.
 
-**Step 06 - Feature Selection:** Boruta algorihtm with Random Forest Regrresor to select the most relevant features.
+**Step 06 - Data Preparation:** rescaling, encoding and transformation.
 
-**Step 07 - Machine Learning Modelling:** testing and comparing Machine Learning models.
+**Step 07 - Feature Selection:** removing high correlated features and using Boruta algorihtm with Random Forest Regressor to select the most relevant features.
 
-**Step 08 - Hyperparameter Fine Tuning:** determining the optimum parameters for the chosen models.
-
-**Step 09 - Error Interpretation and Translation:** stores business performance, total business performance and Machine Learning performance.
-
-**Step 10 - Deploy:** deploy model to production.
+**Step 08 - Machine Learning Modelling:** testing and comparing Machine Learning models.
 
 # 4. Top 6 Data Insights
 
