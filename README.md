@@ -60,7 +60,7 @@ The following hypotheses were formulated in order to be tested:
 
 **H03.** The number of bookings to US increase 20% yearly during the summer.
 
-**FALSE.** Based on the waterfall chart above, there was a higher increase up to 2013. However, in 2014 and 2015 there was a decrease.
+**FALSE.** There was a higher increase up to 2013. However, in 2014 and 2015 there was a decrease.
 
 **H05.** Google Marketing channel represents 40% of the bookings to out of US.
 
