@@ -72,11 +72,11 @@ The following hypotheses were formulated in order to be tested:
 
 # 5. Business Results
 
-Random Forest predict country destination for Airbnb user with 98% of accuracy. 
+Random Forest predict country destination for Airbnb user with 99% of average accuracy. 
 
 # 6. Conclusions
 
-We used Artifical Neural Network (ANN) to predict Airbnb users country destination, yet due to the low number of rows, this model did not perform well. Thus, we used Random Forest Regressor and we achieved an accuracy of 98%. 
+We used Artifical Neural Network (ANN) to predict Airbnb users country destination, yet due to the low number of rows, this model did not perform well. Thus, we used Random Forest Regressor and we achieved an average accuracy of 99%. 
 
 # 7. Next Steps
 
