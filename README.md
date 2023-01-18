@@ -68,7 +68,7 @@ The following hypotheses were formulated in order to be tested:
 
 **H07.** The average age is 35 years old to every country destination.
 
-**TRUE.** Since the average and the median age are very close to 35 for every country destination, we consider this hypothesis as true. As the average is a float number, the assumption was very close to the actual value.
+**TRUE.** The average and the median age are very close to 35 for every country destination.
 
 # 5. Business Results
 
