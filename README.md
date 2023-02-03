@@ -46,7 +46,7 @@ The following hypotheses were formulated in order to be tested:
 
 **Step 03 - Feature Filtering and Selection:** rows filtering and columns selection.
 
-**Step 05 - Balanced Dataset:** balance of the dataset.
+**Step 04 - Balanced Dataset:** balance of the dataset.
 
 **Step 05 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis (hypotheses test) and multivariate analysis.
 
